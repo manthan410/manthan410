@@ -55,7 +55,6 @@ NLP | LLMs | AI | Industry 4.0
 
 ## Profiles
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
-[![Linkedin](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Manthan-Shenoy)](https://www.researchgate.net/profile/Manthan-Shenoy)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=https://huggingface.co/Manthan11)](https://huggingface.co/Manthan11)
 
