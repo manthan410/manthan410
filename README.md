@@ -92,7 +92,7 @@ NLP | LLMs | AI | Industry 4.0
 ## Top Projects
 ### LLMs Based Projects
 - **Project Name 1**
-  - [GitHub Repo](YourRepoLink1) | [Demo Video](YourDemoVideoLink1)
+  - [GitHub Repo w/ Demo Video](YourRepoLink1)
 - **Project Name 2**
   - [GitHub Repo](YourRepoLink2) | [Demo Video](YourDemoVideoLink2)
 
