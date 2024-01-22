@@ -41,9 +41,6 @@ NLP | LLMs | AI | Industry 4.0
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
 -->
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Manthan 👋 I'm a 🚀 AI Enthusiast 🚀 I ❤️ love building products">
-</p>
 # Hi there! 👋 I'm Manthan Shenoy
 <!-- ## Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
@@ -62,9 +59,29 @@ NLP | LLMs | AI | Industry 4.0
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=https://huggingface.co/Manthan11)](https://huggingface.co/Manthan11)
 
 ## Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white)
-<!-- Add more tech stack logos as needed -->
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange?style=flat-square&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=flat-square&logo=flask&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-green?style=flat-square&logo=beautifulsoup&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat-square&logo=selenium&logoColor=white)
+![OPC UA](https://img.shields.io/badge/-OPC%20UA-blue?style=flat-square&logo=opc&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-blue?style=flat-square&logo=api&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-green?style=flat-square&logo=mqtt&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-blue?style=flat-square&logo=scikit-learn&logoColor=white)
+![Spacy](https://img.shields.io/badge/-Spacy-blue?style=flat-square&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/-Gensim-lightgrey?style=flat-square&logo=gensim&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-green?style=flat-square&logo=nltk&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-lightgrey?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## Publications
 - **Towards autonomous system: flexible modular production system enhanced with large language model agents**
