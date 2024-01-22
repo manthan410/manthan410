@@ -89,7 +89,7 @@ NLP | LLMs | AI | Industry 4.0
   - [IEEE Paper Link](https://ieeexplore.ieee.org/document/10275362)
 
 ## Top Projects
-### LLMs Based Projects
+### GenAI/LLMs Based Projects
 - **MultiModal-RAG based ResearcherQA Bot**
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
 - **Finetuned LLaMA2 on DockerNL commands**
