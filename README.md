@@ -92,7 +92,7 @@ NLP | LLMs | AI | Industry 4.0
 ## Top Projects
 ### LLMs Based Projects
 - **MultiModal-RAG based ResearcherQA Bot**
-  - [GitHub Repo w/ Demo Video]([YourRepoLink1](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
+  - [GitHub Repo w/ Demo Video](ourRepoLink1https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
 - **Finetuned LLaMA2 on DockerNL commands**
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/finetune-llama2-for-docker_command)
 
