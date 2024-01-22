@@ -47,7 +47,7 @@ NLP | LLMs | AI | Industry 4.0
 
 🚀 AI Enthusiast | Recent Masters Graduate in Information Technology | Aspiring AI Engineer/ Data Scientist
 
-🎓 Graduated from University of Stuttgart,Germany
+🎓 Graduated from University of Stuttgart, Germany
 
 🌟 Passionate about building products using AI (specifically NLP, LLMs) in context of Industry 4.0 
 
