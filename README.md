@@ -41,7 +41,7 @@ NLP | LLMs | AI | Industry 4.0
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
 -->
 
-# Hi there! 👋 I'm Manthan Shenoy
+# Hi there! 👋 I'm Manthan
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
 
 🚀 AI Enthusiast | Recent Masters Graduate in Information Technology | Aspiring AI Engineer/ Data Scientist
