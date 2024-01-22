@@ -115,14 +115,14 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/job-assistant-chatbot)
 
 ### DL/ML Projects
-- **Exploration of CNN models for fastinfernce on Resource constrained hardwares**
-  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
-- **HOME IoT: Real-Time Liveness Based Face Recognition**
-  - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
 - **Image Paragraph Generator:**
   - 🚧 work under progress
   - Training CNN-LSTM model to generate paragraph caption based on the input image
   - [GitHub Repo](https://github.com/manthan410/image-paragraph-caption-generator)
+- **Exploration of CNN models for fastinfernce on Resource constrained hardwares**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
+- **HOME IoT: Real-Time Liveness Based Face Recognition**
+  - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
 
 ## Top Programming Languages
 <a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
