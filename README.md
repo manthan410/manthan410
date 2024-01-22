@@ -94,7 +94,7 @@ NLP | LLMs | AI | Industry 4.0
 ### GenAI/LLMs Based Projects
 - **MultiModal-RAG based ResearcherQA Bot: Gemini-Pro based Language and Vison models used with retrieved extracted pdf data (texts, tables & images)**
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
-- **Finetuned LLaMA2 on DockerNL commands : using PEFT on 4bit quantized loaded nodel **
+- **Finetuned LLaMA2 on DockerNL commands : using PEFT on 4bit quantized loaded nodel**
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/finetune-llama2-for-docker_command)
 
 ### NLP Based Projects
