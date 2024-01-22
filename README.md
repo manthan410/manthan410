@@ -55,7 +55,7 @@ NLP | LLMs | AI | Industry 4.0
 📚 Still learning and keeping up to date with multimodality, specifically vision with language models
 
 ## Profiles
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YourLinkedInProfileLink](https://www.linkedin.com/in/manthan-venkataramana-shenoy/))](YourLinkedInProfileLink)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](YourLinkedInProfileLink)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=[YourResearchGateProfileLink](https://www.researchgate.net/profile/Manthan-Shenoy))](YourResearchGateProfileLink)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=[YourHuggingFaceProfileLink](https://huggingface.co/Manthan11))](YourHuggingFaceProfileLink)
 
