@@ -50,7 +50,9 @@ NLP | LLMs | AI | Industry 4.0
 
 🌟 Passionate about building products using AI (specifically NLP, LLMs) in context of Industry 4.0 
 
-📚 Alyways learning & motivated about technologies in Generative AI, foundational Models dealing with Multimodality
+📚 Continously learning & motivated about technologies in Generative AI, foundational Models in the context of Multimodality.
+
+⚡ Fun fact: Feel energized through 🧘‍♂️ yoga, find therapeutic joy in 🍳 cooking, and rejuvenate with refreshing 🏞️ hiking breaks
 
 ## Profiles
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
