@@ -49,7 +49,7 @@ NLP | LLMs | AI | Industry 4.0
 
 🎓 Graduated from University of Stuttgart,Germany
 
-🌟 Passionate about NLP, LLMs, and Industry 4.0 (Industrial Automation)
+🌟 Passionate about building products using AI (specifically NLP, LLMs) in context of Industry 4.0 
 
 📚 Still learning and keeping up to date with multimodality, specifically vision with language models
 
