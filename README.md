@@ -91,18 +91,30 @@ NLP | LLMs | AI | Industry 4.0
 
 ## Top Projects
 ### LLMs Based Projects
-- **Project Name 1**
-  - [GitHub Repo w/ Demo Video](YourRepoLink1)
-- **Project Name 2**
-  - [GitHub Repo](YourRepoLink2) | [Demo Video](YourDemoVideoLink2)
+- **MultiModal-RAG based ResearcherQA Bot**
+  - [GitHub Repo w/ Demo Video]([YourRepoLink1](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
+- **Finetuned LLaMA2 on DockerNL commands**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/finetune-llama2-for-docker_command)
 
 ### NLP Based Projects
-- **Project Name 3**
-  - [GitHub Repo](YourRepoLink3) | [Demo Video](YourDemoVideoLink3)
+- **NewsShorts App: German news Machine Translated to English and Abstractive summarised in 60 words**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/news-app)
+- **Lecture Notes Generator App: BerTopic based topic-wise transcript generator with media control**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/audio-lecture-notes-generator)
+- **Music Recommender App: Knowledge Graph based hybrid (content & collabortive Filtering) Recommender System [Collaborative Project]**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/kg-music-recommendation)
+- **Job Assistant Chtabot : personalised recommendation using Resume parser and analyser with ATS matcher with job postings real-time**
+  - 🚧 work under progress
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/job-assistant-chatbot)
 
 ### DL/ML Projects
-- **Project Name 4**
-  - [GitHub Repo](YourRepoLink4) | [Demo Video](YourDemoVideoLink4) | [Hackster.io](YourHacksterLink)
+- **Exploration of CNN models for fastinfernce on Resource constrained hardwares**
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
+- **HOME IoT: Real-Time Liveness Based Face Recognition**
+  - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
+- **Image Paragraph Generator : CNN-LSTM model to generate paragraph based on the input image**
+  - 🚧 work under progress
+  - [GitHub Rep](https://github.com/manthan410/image-paragraph-caption-generator)
 
 ## Top Programming Languages
 <a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
