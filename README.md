@@ -42,7 +42,7 @@ NLP | LLMs | AI | Industry 4.0
 -->
 
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Manthan Shenoy
 <!-- ## Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
 
