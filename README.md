@@ -40,7 +40,7 @@ NLP | LLMs | AI | Industry 4.0
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
 -->
-<!--
+
 # Hi there! 👋 I'm Manthan Shenoy
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
 
@@ -117,101 +117,5 @@ NLP | LLMs | AI | Industry 4.0
 
 ## Top Programming Languages
 <a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manthan Shenoy - AI Enthusiast</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #1c1917;
-      color: #ffffff;
-      padding: 20px;
-    }
-
-    h1, h2, h3 {
-      color: #0891b2;
-    }
-
-    a {
-      color: #ffffff;
-    }
-
-    .badge {
-      margin-right: 5px;
-    }
-
-    .project-section {
-      margin-top: 20px;
-    }
-
-    .work-in-progress {
-      color: #ffa500;
-    }
-  </style>
-</head>
-<body>
-  <h1>Hi there! 👋 I'm Manthan Shenoy</h1>
-  <img src="https://komarev.com/ghpvc/?username=manthan410" alt="Profile Views">
-
-  <p>🚀 AI Enthusiast | Recent Masters Graduate in Information Technology | Aspiring AI Engineer/ Data Scientist</p>
-  <p>🎓 Graduated from University of Stuttgart, Germany</p>
-  <p>🌟 Passionate about building products using AI (specifically NLP, LLMs) in context of Industry 4.0</p>
-  <p>📚 Always learning & motivated about technologies in Generative AI, foundational Models dealing with Multimodality</p>
-
-  <h2>Profiles</h2>
-  <a href="https://www.linkedin.com/in/manthan-venkataramana-shenoy/" target="_blank">
-    <img class="badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.researchgate.net/profile/Manthan-Shenoy" target="_blank">
-    <img class="badge" src="https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate">
-  </a>
-  <a href="https://huggingface.co/Manthan11" target="_blank">
-    <img class="badge" src="https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-  </a>
-
-  <h2>Tech Stack</h2>
-  <img class="badge" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <!-- Add more badges for each tech stack -->
-
-  <h2>Publications</h2>
-  <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents</strong></p>
-  <a href="https://github.com/manthan410/GPT4IndustrialAutomation" target="_blank">Video Demo</a> |
-  <a href="https://ieeexplore.ieee.org/document/10275362" target="_blank">IEEE Paper Link</a>
-
-  <div class="project-section">
-    <h2>Top Projects</h2>
-
-    <h3>LLMs Based Projects</h3>
-    <p><strong>MultiModal-RAG based ResearcherQA Bot</strong></p>
-    <a href="https://github.com/manthan410/multimodal-RAG-ResearchQA-bot" target="_blank">GitHub Repo w/ Demo Video</a>
-    
-
-    <h3>NLP Based Projects</h3>
-    <p><strong>NewsShorts App: German news Machine Translated to English and Abstractive summarised in 60 words</strong></p>
-    <a href="https://github.com/manthan410/news-app" target="_blank">GitHub Repo w/ Demo Video</a>
-
-
-    <h3>DL/ML Projects</h3>
-    <p><strong>Exploration of CNN models for fast inference on Resource constrained hardwares</strong></p>
-    <a href="https://github.com/manthan410/Neuralnet_fastinference" target="_blank">GitHub Repo w/ Demo Video</a>
-
-    <!-- Add more projects as needed -->
-    
-    <p class="work-in-progress">🚧 Job Assistant Chatbot: Personalized recommendation using Resume parser and analyzer with ATS matcher with job postings real-time (work under progress)</p>
-    <a href="https://github.com/manthan410/job-assistant-chatbot" target="_blank">GitHub Repo w/ Demo Video</a>
-
-    <!-- Add more projects as needed -->
-  </div>
-
-  <h2>Top Programming Languages</h2>
-  <a href="https://github.com/manthan410" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
-  </a>
-</body>
-</html>
 
