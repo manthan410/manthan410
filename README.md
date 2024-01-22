@@ -41,7 +41,6 @@ NLP | LLMs | AI | Industry 4.0
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
 -->
 
-
 # Hi there! 👋 I'm Manthan Shenoy
 <!-- ## Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
@@ -65,9 +64,9 @@ NLP | LLMs | AI | Industry 4.0
 <!-- Add more tech stack logos as needed -->
 
 ## Publications
-- **Publication Title**
-  - [Repo Link](YourPublicationRepoLink)
-  - [IEEE Paper Link](YourIeePaperLink)
+- **Towards autonomous system: flexible modular production system enhanced with large language model agents**
+  - [Video Demo](https://github.com/manthan410/GPT4IndustrialAutomation)
+  - [IEEE Paper Link](https://ieeexplore.ieee.org/document/10275362)
 
 ## Top Projects
 ### LLMs Based Projects
