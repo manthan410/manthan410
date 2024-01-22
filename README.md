@@ -56,8 +56,8 @@ NLP | LLMs | AI | Industry 4.0
 
 ## Profiles
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=[YourResearchGateProfileLink](https://www.researchgate.net/profile/Manthan-Shenoy))](YourResearchGateProfileLink)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=[YourHuggingFaceProfileLink](https://huggingface.co/Manthan11))](YourHuggingFaceProfileLink)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Manthan-Shenoy)](https://www.researchgate.net/profile/Manthan-Shenoy)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=https://huggingface.co/Manthan11)](https://huggingface.co/Manthan11)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
