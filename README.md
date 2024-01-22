@@ -100,14 +100,18 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/finetune-llama2-for-docker_command)
 
 ### NLP Based Projects
-- **NewsShorts App: German news Machine Translated to English and Abstractive summarised in 60 words**
+- **NewsShorts App:**
+  - German news Machine Translated to English and Abstractive summarised in 60 words
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/news-app)
-- **Lecture Notes Generator App: BerTopic based topic-wise transcript generator with media control**
+- **Lecture Notes Generator App:**
+  - BerTopic based topic-wise transcript generator with media control
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/audio-lecture-notes-generator)
-- **Music Recommender App: Knowledge Graph based hybrid (content & collabortive Filtering) Recommender System [Collaborative Project]**
+- **[Collaborative Project] Music Recommender App: **
+  - Knowledge Graph based hybrid (content & collabortive Filtering) Recommender System 
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/kg-music-recommendation)
-- **Job Assistant Chtabot : personalised recommendation using Resume parser and analyser with ATS matcher with job postings real-time**
+- **Job Assistant Chtabot: **
   - 🚧 work under progress
+  - personalised recommendation using trained Resume parser model and analyser with ATS matcher with job postings real-time on job website.
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/job-assistant-chatbot)
 
 ### DL/ML Projects
@@ -115,8 +119,9 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
 - **HOME IoT: Real-Time Liveness Based Face Recognition**
   - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
-- **Image Paragraph Generator : CNN-LSTM model to generate paragraph based on the input image**
+- **Image Paragraph Generator: **
   - 🚧 work under progress
+  - Training CNN-LSTM model to generate paragraph caption based on the input image
   - [GitHub Repo](https://github.com/manthan410/image-paragraph-caption-generator)
 
 ## Top Programming Languages
