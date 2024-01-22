@@ -111,7 +111,7 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/kg-music-recommendation)
 - **Job Assistant Chtabot:**
   - 🚧 work under progress
-  - personalised recommendation using trained Resume parser model and analyser with ATS matcher with job postings real-time on job website.
+  - personalised recommendation using custom trained NER based Resume parser model and analyser with ATS matcher with job postings from real-time job website.
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/job-assistant-chatbot)
 
 ### DL/ML Projects
