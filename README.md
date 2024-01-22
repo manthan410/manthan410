@@ -38,7 +38,8 @@ NLP | LLMs | AI | Industry 4.0
 
 <a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
+-->
 
 
 # Hi there! 👋 I'm [Your Name]
@@ -82,7 +83,7 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo](YourRepoLink4) | [Demo Video](YourDemoVideoLink4) | [Hackster.io](YourHacksterLink)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
 
 ## Top Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
+<a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
