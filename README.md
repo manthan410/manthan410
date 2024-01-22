@@ -107,7 +107,7 @@ NLP | LLMs | AI | Industry 4.0
   - BerTopic based topic-wise transcript generator with media control
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/audio-lecture-notes-generator)
 - **Music Recommender App:**
-  - Knowledge Graph based hybrid (content & collabortive Filtering) Recommender System 
+  - Knowledge Graph based hybrid (content & collaborative Filtering) Recommender System 
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/kg-music-recommendation)
 - **Job Assistant Chtabot:**
   - 🚧 work under progress
