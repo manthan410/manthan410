@@ -41,6 +41,9 @@ NLP | LLMs | AI | Industry 4.0
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&hide=html&layout=compact)
 -->
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Manthan 👋 I'm a 🚀 AI Enthusiast 🚀 I ❤️ love building products">
+</p>
 # Hi there! 👋 I'm Manthan Shenoy
 <!-- ## Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
