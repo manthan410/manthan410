@@ -37,3 +37,52 @@ NLP | LLMs | AI | Industry 4.0
 ### Badges
 
 <a href="https://github.com/manthan410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan410&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+# Hi there! 👋 I'm [Your Name]
+
+🚀 AI Enthusiast | Recent Masters Graduate in Information Technology | Aspiring AI Engineer & Data Scientist
+
+🎓 Graduated from XYZ University
+
+🌟 Passionate about NLP, LLMs, and Industry 4.0 (Industrial Automation)
+
+📚 Still learning and keeping up to date with multimodality, specifically vision with language models
+
+## Profiles
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInProfileLink)](YourLinkedInProfileLink)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=YourResearchGateProfileLink)](YourResearchGateProfileLink)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white&link=YourHuggingFaceProfileLink)](YourHuggingFaceProfileLink)
+
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white)
+<!-- Add more tech stack logos as needed -->
+
+## Publications
+- **Publication Title**
+  - [Repo Link](YourPublicationRepoLink)
+  - [IEEE Paper Link](YourIeePaperLink)
+
+## Top Projects
+### LLMs Based Projects
+- **Project Name 1**
+  - [GitHub Repo](YourRepoLink1) | [Demo Video](YourDemoVideoLink1)
+- **Project Name 2**
+  - [GitHub Repo](YourRepoLink2) | [Demo Video](YourDemoVideoLink2)
+
+### NLP Based Projects
+- **Project Name 3**
+  - [GitHub Repo](YourRepoLink3) | [Demo Video](YourDemoVideoLink3)
+
+### DL/ML Projects
+- **Project Name 4**
+  - [GitHub Repo](YourRepoLink4) | [Demo Video](YourDemoVideoLink4) | [Hackster.io](YourHacksterLink)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+
+## Top Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&hide=html&layout=compact)
