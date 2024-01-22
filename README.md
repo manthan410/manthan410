@@ -106,10 +106,10 @@ NLP | LLMs | AI | Industry 4.0
 - **Lecture Notes Generator App:**
   - BerTopic based topic-wise transcript generator with media control
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/audio-lecture-notes-generator)
-- **[Collaborative Project] Music Recommender App: **
+- **Music Recommender App:**
   - Knowledge Graph based hybrid (content & collabortive Filtering) Recommender System 
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/kg-music-recommendation)
-- **Job Assistant Chtabot: **
+- **Job Assistant Chtabot:**
   - 🚧 work under progress
   - personalised recommendation using trained Resume parser model and analyser with ATS matcher with job postings real-time on job website.
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/job-assistant-chatbot)
@@ -119,7 +119,7 @@ NLP | LLMs | AI | Industry 4.0
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
 - **HOME IoT: Real-Time Liveness Based Face Recognition**
   - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
-- **Image Paragraph Generator: **
+- **Image Paragraph Generator:**
   - 🚧 work under progress
   - Training CNN-LSTM model to generate paragraph caption based on the input image
   - [GitHub Repo](https://github.com/manthan410/image-paragraph-caption-generator)
