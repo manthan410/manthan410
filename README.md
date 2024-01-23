@@ -57,7 +57,7 @@ NLP | LLMs | AI | Industry 4.0
 
 📚 Continously learning & motivated about technologies in Generative AI, foundational Models in the context of Multimodality.
 
-⚡ Fun fact: coding vibes set by music.
+⚡ Fun fact: coding vibes set by music 🎶
 
 
 ## Profiles
