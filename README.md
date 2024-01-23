@@ -57,6 +57,8 @@ NLP | LLMs | AI | Industry 4.0
 
 📚 Continously learning & motivated about technologies in Generative AI, foundational Models in the context of Multimodality.
 
+⚡ Fun fact: coding vibes set by music.
+
 
 ## Profiles
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
