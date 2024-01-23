@@ -126,7 +126,7 @@ NLP | LLMs | AI | Industry 4.0
   - Training CNN-LSTM model to generate paragraph caption based on the input image
   - [GitHub Repo](https://github.com/manthan410/image-paragraph-caption-generator)
 - **Exploration of CNN models for fastinfernce on Resource constrained hardwares**
-  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/Neuralnet_fastinference)
+  - [GitHub Repo](https://github.com/manthan410/Neuralnet_fastinference)
 - **HOME IoT: Real-Time Liveness Based Face Recognition**
   - [Blog on Hackster.io](https://www.hackster.io/manthan-shenoy/home-iot-real-time-liveness-based-face-recognition-f511aa)
 
