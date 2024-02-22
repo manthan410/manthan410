@@ -90,6 +90,7 @@ NLP | LLMs | AI | Industry 4.0
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?style=flat-square&logo=api&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-green?style=flat-square&logo=mqtt&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-blue?style=flat-square&logo=dialogflow&logoColor=white)
 
 ## Publications
 - **Towards autonomous system: flexible modular production system enhanced with large language model agents**
